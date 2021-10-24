@@ -14,20 +14,26 @@ using Laravel's eloquent ORM (Object relational mapping) capabilities to form a 
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
+
 ## Git clone
 git clone https://github.com/maheshkareeya/laravel-todo.git
+
 
 ## Change directory
 cd laravel-todo
 
+
 ## Install Dependencies
 composer install
+
 
 ## Run Server
 php artisan serve
 
-##Click below after setup
+
+## Click below after setup
 http://localhost:8000
+
 
 
 ## Learning Laravel
