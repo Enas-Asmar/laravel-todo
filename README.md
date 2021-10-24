@@ -9,7 +9,7 @@
 
 ## Laravel Todo List
 
-create a To Do App using Laravel framework along with Bootstrap, Jquery, and so on. used MYSQL as database on http://localhost:8080/phpmyadmin in ToDo project.
+create a To Do App using Laravel framework along with Bootstrap, Jquery, and so on. used MYSQL as database on http://localhost:8080/phpmyadmin  using Xampp in ToDo project.
 using Laravel's eloquent ORM (Object relational mapping) capabilities to form a relationship between user & it's projects + tasks .
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
