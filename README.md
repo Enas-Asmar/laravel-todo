@@ -16,7 +16,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 
 ## Git clone
-git clone https://github.com/maheshkareeya/laravel-todo.git
+git clone https://github.com/Enas-Asmar/laravel-todo.git
 
 
 ## Change directory
